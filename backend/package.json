@@ -1,0 +1,14 @@
+{
+  "name": "dream-team-builder-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vercel serverless backend for Dream Team Builder",
+  "main": "api/search.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
